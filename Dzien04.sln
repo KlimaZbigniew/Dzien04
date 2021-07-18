@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWinApp", "FirstWinApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathQuiz", "MathQuiz\MathQuiz.csproj", "{E9CBE152-A040-411C-A867-94D4E3291817}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHomeApp", "TestHomeApp\TestHomeApp.csproj", "{F4B10715-AA87-4F19-9CDD-370FAB3F8184}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E9CBE152-A040-411C-A867-94D4E3291817}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9CBE152-A040-411C-A867-94D4E3291817}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9CBE152-A040-411C-A867-94D4E3291817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B10715-AA87-4F19-9CDD-370FAB3F8184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B10715-AA87-4F19-9CDD-370FAB3F8184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B10715-AA87-4F19-9CDD-370FAB3F8184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B10715-AA87-4F19-9CDD-370FAB3F8184}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
